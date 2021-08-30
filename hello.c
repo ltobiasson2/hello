@@ -16,5 +16,8 @@
    printf("Lilli Tobiasson!\n");
    printf("computer science\n");
    
+   printf"SARAH WEBER!\n");
+   printf("COMPUTER SCIENCE!\n");
+   
    return 0;
  }
